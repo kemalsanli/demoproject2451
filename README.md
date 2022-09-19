@@ -2,10 +2,10 @@
 Still WIP
 
 Features:
-+Pagination
-+Local saving
-+Download Images
-+VIPER
-+StoryBoard
-+Sorting
++Pagination   
++Local saving   
++Download Images   
++VIPER   
++StoryBoard   
++Sorting   
 
